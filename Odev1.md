@@ -1,21 +1,20 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
+
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-B   | Beyza Bektaş   | 384
+10-B   | Berçem Koç     | 412
+10-B   | Hediye Safi    | 354
 
-#  (buraya proje başlığını yazınız)
+#  Araba 
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Bu projede amacımız enerji kaynağı olarak elastik oyuncak balon kullanarak bir model araba tasarlamaktır. Bununla birlikte hangi parametrelerde en verimli şekilde mesafe katedebileceğini bulmaktır. Bunu gerçekleştirebilmek için balonun hacmi, elastikliği ve balondan çıkan gazın çıkış alanının değişikliklerini incelenecektir. Bu deneylerde balonun hacminin artmasının etkilerini balonu şişirerek, balonun elastikliğini balonun ne kadar ağırlık tarttığını anlayarak  son olarak balonun arkasına hava kaçırmayacak şekilde yapıştırdığımız pipetle alanını küçülterek ne kadar yol alabileceğini bulmaktır. Bu deneyler sonucunda elastikliğin, hacmin ve gazın çıktığı alanın etkilerini gözlemlenmiş olacaktır. Sonuç olarak bu deneyler doğrultusunda gözlemlediğimiz parametrelerin hangileriyle daha çok mesafe gidebileceğimizi anlamış olacağız.    
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+ 1.Balloon powered car (Queatacon), http://www.questacon.edu.au/html/squad_activities/balloon_powered_car.html
+ 2.Teacher Information: Rocket Car (NASA, 1996), http://er.jsc.nasa.gov/seh/Rocket_Car.pdf
+ 3.Balloon Car Contest at NASA's Jet Propulsion Laboratory, http://www.balloonhq.com/balloon_car/balloon_car.html
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
 
